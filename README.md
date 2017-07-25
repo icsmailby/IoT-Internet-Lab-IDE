@@ -1,4 +1,4 @@
-# IoT-Internet-Lab-IDE
+# IoT-Lab
 Cloud development environment for smart things and new Internet
 
 In our project, a cloud development environment is developed that will:
